@@ -70,4 +70,4 @@ If you want to contribute to this project, follow these guidelines:
 
 ## Contact
 
-For any inquiries or questions, please contact [Yash Gupta](https://www.yashgupta.org).
+For any inquiries or questions and suggestions, please contact [Yash Gupta](https://www.yashgupta.org).
