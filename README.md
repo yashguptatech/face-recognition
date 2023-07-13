@@ -1,15 +1,14 @@
 # face-recognition
 
-```
-# Face Recognition Application
+## Face Recognition Application
 
-## Description
+Description
 
 This project is a face recognition application that utilizes machine learning techniques to recognize faces in real-time from a camera feed.
 
 ## Prerequisites
 
-- Python (version X.X.X)
+- Python
 - Git
 
 ## Installation
@@ -18,7 +17,7 @@ This project is a face recognition application that utilizes machine learning te
 
    ```bash
    git clone https://github.com/yashguptatech/face-recognition.git
-```
+   ```
 
 2. Navigate to the project directory:
 
